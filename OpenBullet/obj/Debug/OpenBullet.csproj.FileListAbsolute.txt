@@ -1,0 +1,420 @@
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\bin\Debug\LSHighlighting.xshd
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\bin\Debug\LSDoc.xml
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\bin\Debug\SyntaxHelper.xml
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\bin\Debug\AngleSharp.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\bin\Debug\Extreme.Net.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\bin\Debug\ICSharpCode.AvalonEdit.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\bin\Debug\IronPython.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\bin\Debug\IronPython.Modules.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\bin\Debug\IronPython.SQLite.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\bin\Debug\IronPython.Wpf.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\bin\Debug\Jint.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\bin\Debug\LiteDB.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\bin\Debug\Microsoft.Scripting.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\bin\Debug\ProxySocket.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\bin\Debug\RuriLib.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\bin\Debug\System.Net.Http.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\bin\Debug\WebDriver.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\bin\Debug\WebDriver.Support.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\bin\Debug\WPFToolkit.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\bin\Debug\CloudflareSolver.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\bin\Debug\netstandard.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\bin\Debug\AntiCaptcha.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\bin\Debug\2Captcha.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\bin\Debug\RuriLib.pdb
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\bin\Debug\RuriLib.xml
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\bin\Debug\RuriLib.dll.config
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\bin\Debug\AngleSharp.xml
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\bin\Debug\ICSharpCode.AvalonEdit.xml
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\bin\Debug\IronPython.xml
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\bin\Debug\IronPython.Modules.xml
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\bin\Debug\IronPython.SQLite.xml
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\bin\Debug\IronPython.Wpf.xml
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\bin\Debug\LiteDB.xml
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\bin\Debug\Microsoft.Dynamic.xml
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\bin\Debug\Microsoft.Scripting.xml
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\bin\Debug\Microsoft.Scripting.Metadata.xml
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\bin\Debug\ProxySocket.xml
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\bin\Debug\WebDriver.xml
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\bin\Debug\WebDriver.Support.xml
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\OpenBullet.csprojAssemblyReference.cache
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Dialogs\DialogCustomInput.baml
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\StackerBlocks\PageBlockRequest.baml
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\Themes\MetroDark\MetroDark.MSControls.Core.Implicit.baml
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\Themes\MetroDark\MetroDark.MSControls.Toolkit.Implicit.baml
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\Themes\MetroDark\Styles.Shared.baml
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\Themes\MetroDark\Styles.WPF.baml
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\Themes\MetroDark\Theme.Colors.baml
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\LogWindow.g.cs
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Dialogs\DialogLSDoc.g.cs
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Dialogs\DialogSelectBots.g.cs
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Dialogs\DialogSetProxies.g.cs
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Main\Configs\OtherOptions\ConfigOtherOptionsRequests.g.cs
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Main\Configs\OtherOptions\ConfigOtherOptionsSelenium.g.cs
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Dialogs\DialogShowLog.g.cs
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\LoadingWindow.g.cs
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Dialogs\DialogSelectWordlist.g.cs
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Dialogs\DialogAddBlock.g.cs
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Dialogs\DialogCustomInput.g.cs
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Dialogs\DialogSelectConfig.g.cs
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Main\Configs\ConfigOtherOptions.g.cs
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Main\Configs\OtherOptions\ConfigOtherOptionsData.g.cs
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Main\Configs\OtherOptions\ConfigOtherOptionsGeneral.g.cs
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Main\Configs\OtherOptions\ConfigOtherOptionsInputs.g.cs
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Main\Configs\OtherOptions\ConfigOtherOptionsProxies.g.cs
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Dialogs\DialogNewConfig.g.cs
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Main\About.g.cs
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Main\Configs.g.cs
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Main\Configs\ConfigManager.g.cs
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Main\HitsDB.g.cs
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Main\RunnerManager.g.cs
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Main\Settings\OBSettingsPage.g.cs
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Main\Settings\OB\OBSettingsGeneral.g.cs
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Main\Settings\OB\OBSettingsSources.g.cs
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Main\Settings\OB\OBSettingsThemes.g.cs
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Main\Settings\OB\OBSettingsSounds.g.cs
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Main\Settings\RLSettingsPage.g.cs
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Main\Settings\RL\RLSettingsSelenium.g.cs
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Main\Settings\RL\RLSettingsCaptchas.g.cs
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Main\Settings\RL\RLSettingsProxies.g.cs
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Main\Settings\RL\RLSettingsGeneral.g.cs
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Main\Settings.g.cs
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Dialogs\DialogAddWordlist.g.cs
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Dialogs\DialogAddProxies.g.cs
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\MainDialog.g.cs
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Main\Runner\Runner.g.cs
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\MainWindow.g.cs
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Main\ProxyManager.g.cs
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\StackerBlocks\PageBlockBypassCF.g.cs
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\StackerBlocks\PageBlockCaptcha.g.cs
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\StackerBlocks\PageBlockFunction.g.cs
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\StackerBlocks\PageBlockKeycheck.g.cs
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\StackerBlocks\PageBlockLSCode.g.cs
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\StackerBlocks\PageBlockParse.g.cs
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\StackerBlocks\PageBlockRecaptcha.g.cs
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\StackerBlocks\PageBlockRequest.g.cs
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\StackerBlocks\PageBlockTCP.g.cs
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\StackerBlocks\PageBlockUtility.g.cs
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\StackerBlocks\PageSBlockBrowserAction.g.cs
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\StackerBlocks\PageSBlockElementAction.g.cs
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\StackerBlocks\PageSBlockExecuteJS.g.cs
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\StackerBlocks\PageSBlockNavigate.g.cs
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Main\Stacker.g.cs
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\Snowflake.g.cs
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\SplashWindow.g.cs
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Main\WordlistManager.g.cs
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Main\Tools.g.cs
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Main\Tools\ToolsListGenerator.g.cs
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Main\Tools\ToolsSeleniumTools.g.cs
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\App.g.cs
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\App.baml
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\LogWindow.baml
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Dialogs\DialogLSDoc.baml
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Dialogs\DialogSelectBots.baml
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Dialogs\DialogSetProxies.baml
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Main\Configs\OtherOptions\ConfigOtherOptionsRequests.baml
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Main\Configs\OtherOptions\ConfigOtherOptionsSelenium.baml
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Dialogs\DialogShowLog.baml
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\LoadingWindow.baml
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Dialogs\DialogSelectWordlist.baml
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Dialogs\DialogAddBlock.baml
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Dialogs\DialogSelectConfig.baml
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Main\Configs\ConfigOtherOptions.baml
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Main\Configs\OtherOptions\ConfigOtherOptionsData.baml
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Main\Configs\OtherOptions\ConfigOtherOptionsGeneral.baml
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Main\Configs\OtherOptions\ConfigOtherOptionsInputs.baml
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Main\Configs\OtherOptions\ConfigOtherOptionsProxies.baml
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Dialogs\DialogNewConfig.baml
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Main\About.baml
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Main\Configs.baml
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Main\Configs\ConfigManager.baml
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Main\HitsDB.baml
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Main\RunnerManager.baml
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Main\Settings\OBSettingsPage.baml
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Main\Settings\OB\OBSettingsGeneral.baml
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Main\Settings\OB\OBSettingsSources.baml
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Main\Settings\OB\OBSettingsThemes.baml
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Main\Settings\OB\OBSettingsSounds.baml
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Main\Settings\RLSettingsPage.baml
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Main\Settings\RL\RLSettingsSelenium.baml
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Main\Settings\RL\RLSettingsCaptchas.baml
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Main\Settings\RL\RLSettingsProxies.baml
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Main\Settings\RL\RLSettingsGeneral.baml
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Main\Settings.baml
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Dialogs\DialogAddWordlist.baml
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Dialogs\DialogAddProxies.baml
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\MainDialog.baml
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Main\Runner\Runner.baml
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\MainWindow.baml
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Main\ProxyManager.baml
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\StackerBlocks\PageBlockBypassCF.baml
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\StackerBlocks\PageBlockCaptcha.baml
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\StackerBlocks\PageBlockFunction.baml
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\StackerBlocks\PageBlockKeycheck.baml
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\StackerBlocks\PageBlockLSCode.baml
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\StackerBlocks\PageBlockParse.baml
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\StackerBlocks\PageBlockRecaptcha.baml
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\StackerBlocks\PageBlockTCP.baml
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\StackerBlocks\PageBlockUtility.baml
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\StackerBlocks\PageSBlockBrowserAction.baml
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\StackerBlocks\PageSBlockElementAction.baml
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\StackerBlocks\PageSBlockExecuteJS.baml
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\StackerBlocks\PageSBlockNavigate.baml
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Main\Stacker.baml
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\Snowflake.baml
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\SplashWindow.baml
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Main\WordlistManager.baml
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Main\Tools.baml
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Main\Tools\ToolsListGenerator.baml
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Main\Tools\ToolsSeleniumTools.baml
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\OpenBullet.Properties.Resources.resources
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\OpenBullet.csproj.GenerateResource.cache
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\OpenBullet.csproj.CoreCompileInputs.cache
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\OpenBullet.csproj.CopyComplete
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\bin\Debug\OpenBullet.exe.config
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\bin\Debug\OpenBullet.exe
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\bin\Debug\OpenBullet.pdb
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\OpenBullet.exe.config
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\OpenBullet_Content.g.cs
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\OpenBullet_MarkupCompile.cache
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\OpenBullet_MarkupCompile.lref
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\OpenBullet.g.resources
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\OpenBullet.exe
+C:\Users\ZEN AKU\Desktop\openbullet-master\OpenBullet\obj\Debug\OpenBullet.pdb
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\bin\Debug\LSHighlighting.xshd
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\bin\Debug\LSDoc.xml
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\bin\Debug\SyntaxHelper.xml
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\bin\Debug\OpenBullet.exe.config
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\bin\Debug\OpenBullet.exe
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\bin\Debug\OpenBullet.pdb
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\bin\Debug\AngleSharp.dll
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\bin\Debug\Extreme.Net.dll
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\bin\Debug\ICSharpCode.AvalonEdit.dll
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\bin\Debug\IronPython.dll
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\bin\Debug\IronPython.Modules.dll
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\bin\Debug\IronPython.SQLite.dll
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\bin\Debug\IronPython.Wpf.dll
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\bin\Debug\Jint.dll
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\bin\Debug\LiteDB.dll
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\bin\Debug\Microsoft.Scripting.dll
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\bin\Debug\Newtonsoft.Json.dll
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\bin\Debug\ProxySocket.dll
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\bin\Debug\RuriLib.dll
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\bin\Debug\System.Net.Http.dll
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\bin\Debug\WebDriver.dll
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\bin\Debug\WebDriver.Support.dll
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\bin\Debug\WPFToolkit.dll
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\bin\Debug\CloudflareSolver.dll
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\bin\Debug\netstandard.dll
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\bin\Debug\AntiCaptcha.dll
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\bin\Debug\2Captcha.dll
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\bin\Debug\RuriLib.pdb
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\bin\Debug\RuriLib.xml
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\bin\Debug\RuriLib.dll.config
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\bin\Debug\AngleSharp.xml
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\bin\Debug\ICSharpCode.AvalonEdit.xml
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\bin\Debug\IronPython.xml
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\bin\Debug\IronPython.Modules.xml
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\bin\Debug\IronPython.SQLite.xml
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\bin\Debug\IronPython.Wpf.xml
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\bin\Debug\LiteDB.xml
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\bin\Debug\Microsoft.Dynamic.xml
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\bin\Debug\Microsoft.Scripting.xml
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\bin\Debug\Microsoft.Scripting.Metadata.xml
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\bin\Debug\Newtonsoft.Json.xml
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\bin\Debug\ProxySocket.xml
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\bin\Debug\WebDriver.xml
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\bin\Debug\WebDriver.Support.xml
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\OpenBullet.csprojAssemblyReference.cache
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\OpenBullet.exe.config
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Dialogs\DialogCustomInput.baml
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\StackerBlocks\PageBlockRequest.baml
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\Themes\MetroDark\MetroDark.MSControls.Core.Implicit.baml
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\Themes\MetroDark\MetroDark.MSControls.Toolkit.Implicit.baml
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\Themes\MetroDark\Styles.Shared.baml
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\Themes\MetroDark\Styles.WPF.baml
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\Themes\MetroDark\Theme.Colors.baml
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\LogWindow.g.cs
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Dialogs\DialogLSDoc.g.cs
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Dialogs\DialogSelectBots.g.cs
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Dialogs\DialogSetProxies.g.cs
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Main\Configs\OtherOptions\ConfigOtherOptionsRequests.g.cs
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Main\Configs\OtherOptions\ConfigOtherOptionsSelenium.g.cs
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Dialogs\DialogShowLog.g.cs
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\LoadingWindow.g.cs
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Dialogs\DialogSelectWordlist.g.cs
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Dialogs\DialogAddBlock.g.cs
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Dialogs\DialogCustomInput.g.cs
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Dialogs\DialogSelectConfig.g.cs
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Main\Configs\ConfigOtherOptions.g.cs
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Main\Configs\OtherOptions\ConfigOtherOptionsData.g.cs
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Main\Configs\OtherOptions\ConfigOtherOptionsGeneral.g.cs
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Main\Configs\OtherOptions\ConfigOtherOptionsInputs.g.cs
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Main\Configs\OtherOptions\ConfigOtherOptionsProxies.g.cs
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Dialogs\DialogNewConfig.g.cs
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Main\About.g.cs
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Main\Configs.g.cs
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Main\Configs\ConfigManager.g.cs
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Main\HitsDB.g.cs
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Main\RunnerManager.g.cs
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Main\Settings\OBSettingsPage.g.cs
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Main\Settings\OB\OBSettingsGeneral.g.cs
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Main\Settings\OB\OBSettingsSources.g.cs
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Main\Settings\OB\OBSettingsThemes.g.cs
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Main\Settings\OB\OBSettingsSounds.g.cs
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Main\Settings\RLSettingsPage.g.cs
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Main\Settings\RL\RLSettingsSelenium.g.cs
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Main\Settings\RL\RLSettingsCaptchas.g.cs
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Main\Settings\RL\RLSettingsProxies.g.cs
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Main\Settings\RL\RLSettingsGeneral.g.cs
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Main\Settings.g.cs
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Dialogs\DialogAddWordlist.g.cs
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Dialogs\DialogAddProxies.g.cs
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\MainDialog.g.cs
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Main\Runner\Runner.g.cs
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\MainWindow.g.cs
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Main\ProxyManager.g.cs
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\StackerBlocks\PageBlockBypassCF.g.cs
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\StackerBlocks\PageBlockCaptcha.g.cs
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\StackerBlocks\PageBlockFunction.g.cs
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\StackerBlocks\PageBlockKeycheck.g.cs
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\StackerBlocks\PageBlockLSCode.g.cs
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\StackerBlocks\PageBlockParse.g.cs
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\StackerBlocks\PageBlockRecaptcha.g.cs
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\StackerBlocks\PageBlockRequest.g.cs
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\StackerBlocks\PageBlockTCP.g.cs
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\StackerBlocks\PageBlockUtility.g.cs
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\StackerBlocks\PageSBlockBrowserAction.g.cs
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\StackerBlocks\PageSBlockElementAction.g.cs
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\StackerBlocks\PageSBlockExecuteJS.g.cs
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\StackerBlocks\PageSBlockNavigate.g.cs
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Main\Stacker.g.cs
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\Snowflake.g.cs
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\SplashWindow.g.cs
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Main\WordlistManager.g.cs
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Main\Tools.g.cs
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Main\Tools\ToolsListGenerator.g.cs
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Main\Tools\ToolsSeleniumTools.g.cs
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\App.g.cs
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\OpenBullet_Content.g.cs
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\OpenBullet_MarkupCompile.cache
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\OpenBullet_MarkupCompile.lref
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\App.baml
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\LogWindow.baml
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Dialogs\DialogLSDoc.baml
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Dialogs\DialogSelectBots.baml
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Dialogs\DialogSetProxies.baml
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Main\Configs\OtherOptions\ConfigOtherOptionsRequests.baml
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Main\Configs\OtherOptions\ConfigOtherOptionsSelenium.baml
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Dialogs\DialogShowLog.baml
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\LoadingWindow.baml
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Dialogs\DialogSelectWordlist.baml
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Dialogs\DialogAddBlock.baml
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Dialogs\DialogSelectConfig.baml
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Main\Configs\ConfigOtherOptions.baml
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Main\Configs\OtherOptions\ConfigOtherOptionsData.baml
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Main\Configs\OtherOptions\ConfigOtherOptionsGeneral.baml
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Main\Configs\OtherOptions\ConfigOtherOptionsInputs.baml
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Main\Configs\OtherOptions\ConfigOtherOptionsProxies.baml
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Dialogs\DialogNewConfig.baml
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Main\About.baml
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Main\Configs.baml
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Main\Configs\ConfigManager.baml
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Main\HitsDB.baml
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Main\RunnerManager.baml
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Main\Settings\OBSettingsPage.baml
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Main\Settings\OB\OBSettingsGeneral.baml
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Main\Settings\OB\OBSettingsSources.baml
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Main\Settings\OB\OBSettingsThemes.baml
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Main\Settings\OB\OBSettingsSounds.baml
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Main\Settings\RLSettingsPage.baml
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Main\Settings\RL\RLSettingsSelenium.baml
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Main\Settings\RL\RLSettingsCaptchas.baml
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Main\Settings\RL\RLSettingsProxies.baml
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Main\Settings\RL\RLSettingsGeneral.baml
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Main\Settings.baml
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Dialogs\DialogAddWordlist.baml
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Dialogs\DialogAddProxies.baml
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\MainDialog.baml
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Main\Runner\Runner.baml
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\MainWindow.baml
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Main\ProxyManager.baml
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\StackerBlocks\PageBlockBypassCF.baml
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\StackerBlocks\PageBlockCaptcha.baml
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\StackerBlocks\PageBlockFunction.baml
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\StackerBlocks\PageBlockKeycheck.baml
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\StackerBlocks\PageBlockLSCode.baml
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\StackerBlocks\PageBlockParse.baml
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\StackerBlocks\PageBlockRecaptcha.baml
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\StackerBlocks\PageBlockTCP.baml
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\StackerBlocks\PageBlockUtility.baml
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\StackerBlocks\PageSBlockBrowserAction.baml
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\StackerBlocks\PageSBlockElementAction.baml
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\StackerBlocks\PageSBlockExecuteJS.baml
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\StackerBlocks\PageSBlockNavigate.baml
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Main\Stacker.baml
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\Snowflake.baml
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\SplashWindow.baml
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Main\WordlistManager.baml
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Main\Tools.baml
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Main\Tools\ToolsListGenerator.baml
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\Pages\Main\Tools\ToolsSeleniumTools.baml
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\OpenBullet.g.resources
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\OpenBullet.Properties.Resources.resources
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\OpenBullet.csproj.GenerateResource.cache
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\OpenBullet.csproj.CoreCompileInputs.cache
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\OpenBullet.csproj.CopyComplete
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\OpenBullet.exe
+C:\Users\isaac\Desktop\openbullet-master\OpenBullet\obj\Debug\OpenBullet.pdb

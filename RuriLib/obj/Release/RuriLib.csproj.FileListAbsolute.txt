@@ -1,0 +1,288 @@
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\RuriLib.dll.config
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\RuriLib.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\RuriLib.pdb
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\Microsoft.Win32.Primitives.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\netstandard.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\System.AppContext.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\System.Collections.Concurrent.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\System.Collections.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\System.Collections.NonGeneric.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\System.Collections.Specialized.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\System.ComponentModel.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\System.ComponentModel.EventBasedAsync.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\System.ComponentModel.Primitives.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\System.ComponentModel.TypeConverter.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\System.Console.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\System.Data.Common.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\System.Diagnostics.Contracts.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\System.Diagnostics.Debug.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\System.Diagnostics.Process.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\System.Diagnostics.StackTrace.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\System.Diagnostics.Tools.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\System.Diagnostics.TraceSource.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\System.Diagnostics.Tracing.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\System.Drawing.Primitives.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\System.Dynamic.Runtime.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\System.Globalization.Calendars.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\System.Globalization.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\System.Globalization.Extensions.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\System.IO.Compression.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\System.IO.Compression.ZipFile.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\System.IO.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\System.IO.FileSystem.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\System.IO.FileSystem.DriveInfo.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\System.IO.FileSystem.Primitives.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\System.IO.FileSystem.Watcher.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\System.IO.IsolatedStorage.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\System.IO.MemoryMappedFiles.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\System.IO.Pipes.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\System.IO.UnmanagedMemoryStream.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\System.Linq.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\System.Linq.Expressions.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\System.Linq.Parallel.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\System.Linq.Queryable.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\System.Net.Http.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\System.Net.NameResolution.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\System.Net.NetworkInformation.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\System.Net.Ping.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\System.Net.Primitives.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\System.Net.Requests.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\System.Net.Security.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\System.Net.Sockets.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\System.Net.WebHeaderCollection.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\System.Net.WebSockets.Client.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\System.Net.WebSockets.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\System.ObjectModel.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\System.Reflection.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\System.Reflection.Extensions.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\System.Reflection.Primitives.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\System.Resources.Reader.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\System.Resources.ResourceManager.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\System.Resources.Writer.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\System.Runtime.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\System.Runtime.Extensions.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\System.Runtime.Handles.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\System.Runtime.InteropServices.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\System.Runtime.Numerics.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\System.Runtime.Serialization.Formatters.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\System.Runtime.Serialization.Json.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\System.Runtime.Serialization.Primitives.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\System.Runtime.Serialization.Xml.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\System.Security.Claims.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\System.Security.Cryptography.Algorithms.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\System.Security.Cryptography.Csp.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\System.Security.Cryptography.Encoding.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\System.Security.Cryptography.Primitives.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\System.Security.Principal.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\System.Security.SecureString.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\System.Text.Encoding.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\System.Text.Encoding.Extensions.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\System.Text.RegularExpressions.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\System.Threading.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\System.Threading.Overlapped.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\System.Threading.Tasks.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\System.Threading.Tasks.Parallel.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\System.Threading.Thread.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\System.Threading.ThreadPool.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\System.Threading.Timer.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\System.ValueTuple.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\System.Xml.ReaderWriter.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\System.Xml.XDocument.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\System.Xml.XmlDocument.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\System.Xml.XmlSerializer.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\System.Xml.XPath.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\System.Xml.XPath.XDocument.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\2Captcha.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\AngleSharp.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\AntiCaptcha.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\CloudflareSolver.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\Extreme.Net.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\IronPython.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\IronPython.Modules.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\IronPython.SQLite.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\IronPython.Wpf.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\Jint.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\LiteDB.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\Microsoft.Dynamic.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\Microsoft.Owin.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\Microsoft.Owin.Security.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\Microsoft.Scripting.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\Microsoft.Scripting.Metadata.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\Newtonsoft.Json.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\Owin.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\ProxySocket.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\System.Text.Encoding.CodePages.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\WebDriver.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\WebDriver.Support.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\AngleSharp.xml
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\IronPython.xml
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\IronPython.Modules.xml
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\IronPython.SQLite.xml
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\IronPython.Wpf.xml
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\LiteDB.xml
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\Microsoft.Dynamic.xml
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\Microsoft.Owin.xml
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\Microsoft.Owin.Security.xml
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\Microsoft.Scripting.xml
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\Microsoft.Scripting.Metadata.xml
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\Newtonsoft.Json.pdb
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\Newtonsoft.Json.xml
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\ProxySocket.xml
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\WebDriver.xml
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\bin\Release\WebDriver.Support.xml
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\obj\Release\RuriLib.csprojAssemblyReference.cache
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\obj\Release\RuriLib.csproj.CoreCompileInputs.cache
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\obj\Release\RuriLib.csproj.CopyComplete
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\obj\Release\RuriLib.dll
+C:\Users\ZEN AKU\Desktop\openbullet-master\RuriLib\obj\Release\RuriLib.pdb
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\RuriLib.dll.config
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\RuriLib.dll
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\RuriLib.pdb
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\Microsoft.Win32.Primitives.dll
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\netstandard.dll
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\System.AppContext.dll
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\System.Collections.Concurrent.dll
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\System.Collections.dll
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\System.Collections.NonGeneric.dll
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\System.Collections.Specialized.dll
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\System.ComponentModel.dll
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\System.ComponentModel.EventBasedAsync.dll
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\System.ComponentModel.Primitives.dll
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\System.ComponentModel.TypeConverter.dll
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\System.Console.dll
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\System.Data.Common.dll
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\System.Diagnostics.Contracts.dll
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\System.Diagnostics.Debug.dll
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\System.Diagnostics.FileVersionInfo.dll
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\System.Diagnostics.Process.dll
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\System.Diagnostics.StackTrace.dll
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\System.Diagnostics.Tools.dll
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\System.Diagnostics.TraceSource.dll
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\System.Diagnostics.Tracing.dll
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\System.Drawing.Primitives.dll
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\System.Dynamic.Runtime.dll
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\System.Globalization.Calendars.dll
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\System.Globalization.dll
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\System.Globalization.Extensions.dll
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\System.IO.Compression.dll
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\System.IO.Compression.ZipFile.dll
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\System.IO.dll
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\System.IO.FileSystem.dll
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\System.IO.FileSystem.DriveInfo.dll
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\System.IO.FileSystem.Primitives.dll
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\System.IO.FileSystem.Watcher.dll
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\System.IO.IsolatedStorage.dll
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\System.IO.MemoryMappedFiles.dll
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\System.IO.Pipes.dll
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\System.IO.UnmanagedMemoryStream.dll
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\System.Linq.dll
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\System.Linq.Expressions.dll
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\System.Linq.Parallel.dll
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\System.Linq.Queryable.dll
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\System.Net.Http.dll
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\System.Net.NameResolution.dll
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\System.Net.NetworkInformation.dll
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\System.Net.Ping.dll
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\System.Net.Primitives.dll
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\System.Net.Requests.dll
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\System.Net.Security.dll
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\System.Net.Sockets.dll
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\System.Net.WebHeaderCollection.dll
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\System.Net.WebSockets.Client.dll
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\System.Net.WebSockets.dll
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\System.ObjectModel.dll
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\System.Reflection.dll
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\System.Reflection.Extensions.dll
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\System.Reflection.Primitives.dll
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\System.Resources.Reader.dll
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\System.Resources.ResourceManager.dll
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\System.Resources.Writer.dll
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\System.Runtime.dll
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\System.Runtime.Extensions.dll
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\System.Runtime.Handles.dll
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\System.Runtime.InteropServices.dll
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\System.Runtime.Numerics.dll
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\System.Runtime.Serialization.Formatters.dll
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\System.Runtime.Serialization.Json.dll
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\System.Runtime.Serialization.Primitives.dll
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\System.Runtime.Serialization.Xml.dll
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\System.Security.Claims.dll
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\System.Security.Cryptography.Algorithms.dll
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\System.Security.Cryptography.Csp.dll
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\System.Security.Cryptography.Encoding.dll
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\System.Security.Cryptography.Primitives.dll
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\System.Security.Cryptography.X509Certificates.dll
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\System.Security.Principal.dll
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\System.Security.SecureString.dll
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\System.Text.Encoding.dll
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\System.Text.Encoding.Extensions.dll
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\System.Text.RegularExpressions.dll
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\System.Threading.dll
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\System.Threading.Overlapped.dll
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\System.Threading.Tasks.dll
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\System.Threading.Tasks.Parallel.dll
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\System.Threading.Thread.dll
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\System.Threading.ThreadPool.dll
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\System.Threading.Timer.dll
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\System.ValueTuple.dll
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\System.Xml.ReaderWriter.dll
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\System.Xml.XDocument.dll
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\System.Xml.XmlDocument.dll
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\System.Xml.XmlSerializer.dll
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\System.Xml.XPath.dll
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\System.Xml.XPath.XDocument.dll
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\2Captcha.dll
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\AngleSharp.dll
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\AntiCaptcha.dll
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\CloudflareSolver.dll
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\Extreme.Net.dll
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\IronPython.dll
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\IronPython.Modules.dll
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\IronPython.SQLite.dll
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\IronPython.Wpf.dll
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\Jint.dll
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\LiteDB.dll
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\Microsoft.Dynamic.dll
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\Microsoft.Owin.dll
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\Microsoft.Owin.Security.dll
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\Microsoft.Scripting.dll
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\Microsoft.Scripting.Metadata.dll
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\Newtonsoft.Json.dll
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\Owin.dll
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\ProxySocket.dll
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\System.Text.Encoding.CodePages.dll
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\WebDriver.dll
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\WebDriver.Support.dll
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\AngleSharp.xml
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\IronPython.xml
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\IronPython.Modules.xml
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\IronPython.SQLite.xml
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\IronPython.Wpf.xml
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\LiteDB.xml
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\Microsoft.Dynamic.xml
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\Microsoft.Owin.xml
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\Microsoft.Owin.Security.xml
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\Microsoft.Scripting.xml
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\Microsoft.Scripting.Metadata.xml
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\Newtonsoft.Json.pdb
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\Newtonsoft.Json.xml
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\ProxySocket.xml
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\WebDriver.xml
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\bin\Release\WebDriver.Support.xml
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\obj\Release\RuriLib.csprojAssemblyReference.cache
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\obj\Release\RuriLib.csproj.CoreCompileInputs.cache
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\obj\Release\RuriLib.csproj.CopyComplete
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\obj\Release\RuriLib.dll
+C:\Users\isaac\Desktop\openbullet-master\RuriLib\obj\Release\RuriLib.pdb
